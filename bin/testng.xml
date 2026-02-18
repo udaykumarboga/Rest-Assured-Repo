@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ApiWithOutBdd" parallel="methods" thread-count="4">
+	<listeners>
+		<listener class-name="api.utilities.ExtentReportManager"/>
+	</listeners>
+  <test name="swaggerTest">
+	  <classes>
+		  <class name="api.test.AuthenticateTests" />
+		  <class name="api.test.VideoGameControllerTests" />
+		  <class name="api.test.VideoGameControllerV2Tests" />
+	  </classes>
+	  </test> <!-- swaggerTest -->
+</suite> <!-- swaggerSuite -->

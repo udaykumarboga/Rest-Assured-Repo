@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-09T10:08:25 IST" name="swaggerSuite" finished-at="2023-05-09T10:08:45 IST" duration-ms="20011">
+    <groups>
+    </groups>
+    <test started-at="2023-05-09T10:08:25 IST" name="swaggerTest" finished-at="2023-05-09T10:08:45 IST" duration-ms="20011">
+      <class name="api.test.AuthenticateTests">
+        <test-method is-config="true" signature="setupdata()[pri:0, instance:api.test.AuthenticateTests@639c2c1d]" started-at="2023-05-09T10:08:26 IST" name="setupdata" finished-at="2023-05-09T10:08:28 IST" duration-ms="1943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupdata -->
+        <test-method signature="testPostAuthenticate()[pri:1, instance:api.test.AuthenticateTests@639c2c1d]" started-at="2023-05-09T10:08:28 IST" name="testPostAuthenticate" finished-at="2023-05-09T10:08:31 IST" duration-ms="3381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostAuthenticate -->
+      </class> <!-- api.test.AuthenticateTests -->
+      <class name="api.test.VideoGameControllerV2Tests">
+        <test-method is-config="true" signature="setupdata()[pri:0, instance:api.test.VideoGameControllerV2Tests@51399530]" started-at="2023-05-09T10:08:41 IST" name="setupdata" finished-at="2023-05-09T10:08:41 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupdata -->
+        <test-method signature="getV2()[pri:1, instance:api.test.VideoGameControllerV2Tests@51399530]" started-at="2023-05-09T10:08:41 IST" name="getV2" finished-at="2023-05-09T10:08:41 IST" duration-ms="825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getV2 -->
+        <test-method signature="postV2()[pri:2, instance:api.test.VideoGameControllerV2Tests@51399530]" started-at="2023-05-09T10:08:41 IST" name="postV2" finished-at="2023-05-09T10:08:42 IST" duration-ms="701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postV2 -->
+        <test-method signature="GetwithIdV2()[pri:3, instance:api.test.VideoGameControllerV2Tests@51399530]" started-at="2023-05-09T10:08:42 IST" name="GetwithIdV2" finished-at="2023-05-09T10:08:43 IST" duration-ms="1127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetwithIdV2 -->
+        <test-method signature="updateV2()[pri:4, instance:api.test.VideoGameControllerV2Tests@51399530]" started-at="2023-05-09T10:08:43 IST" name="updateV2" finished-at="2023-05-09T10:08:44 IST" duration-ms="1223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateV2 -->
+        <test-method signature="deleteV2()[pri:5, instance:api.test.VideoGameControllerV2Tests@51399530]" started-at="2023-05-09T10:08:44 IST" name="deleteV2" finished-at="2023-05-09T10:08:45 IST" duration-ms="1022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteV2 -->
+      </class> <!-- api.test.VideoGameControllerV2Tests -->
+      <class name="api.test.VideoGameControllerTests">
+        <test-method is-config="true" signature="setupdata()[pri:0, instance:api.test.VideoGameControllerTests@6771beb3]" started-at="2023-05-09T10:08:31 IST" name="setupdata" finished-at="2023-05-09T10:08:31 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupdata -->
+        <test-method signature="GetUser()[pri:1, instance:api.test.VideoGameControllerTests@6771beb3]" started-at="2023-05-09T10:08:31 IST" name="GetUser" finished-at="2023-05-09T10:08:32 IST" duration-ms="1128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUser -->
+        <test-method signature="PostUser()[pri:2, instance:api.test.VideoGameControllerTests@6771beb3]" started-at="2023-05-09T10:08:32 IST" name="PostUser" finished-at="2023-05-09T10:08:36 IST" duration-ms="3257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostUser -->
+        <test-method signature="GetIdUser()[pri:3, instance:api.test.VideoGameControllerTests@6771beb3]" started-at="2023-05-09T10:08:36 IST" name="GetIdUser" finished-at="2023-05-09T10:08:36 IST" duration-ms="856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetIdUser -->
+        <test-method signature="updateUser()[pri:4, instance:api.test.VideoGameControllerTests@6771beb3]" started-at="2023-05-09T10:08:36 IST" name="updateUser" finished-at="2023-05-09T10:08:38 IST" duration-ms="1819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+        <test-method signature="deleteUser()[pri:5, instance:api.test.VideoGameControllerTests@6771beb3]" started-at="2023-05-09T10:08:38 IST" name="deleteUser" finished-at="2023-05-09T10:08:41 IST" duration-ms="2231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+      </class> <!-- api.test.VideoGameControllerTests -->
+    </test> <!-- swaggerTest -->
+  </suite> <!-- swaggerSuite -->
+</testng-results>

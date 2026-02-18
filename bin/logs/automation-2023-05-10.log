@@ -1,0 +1,478 @@
+16:16:10.744 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+16:16:13.851 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+16:16:14.768 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+16:16:17.107 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+16:16:18.027 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+16:16:19.888 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+16:16:21.825 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+16:16:22.742 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+16:16:23.756 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+16:16:24.680 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+16:16:25.603 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+16:16:50.738 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+16:16:53.448 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+16:16:54.396 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+16:16:56.637 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+16:16:57.555 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+16:16:59.305 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+16:17:01.247 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+16:17:02.163 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+16:17:03.077 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+16:17:04.005 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+16:17:04.927 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+17:06:51.075 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+17:09:21.936 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+17:26:26.955 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+17:27:45.222 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+17:27:48.084 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+17:27:51.935 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+17:27:52.914 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+17:27:55.191 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+17:29:43.644 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+17:29:46.442 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+17:29:50.508 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+17:29:51.491 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+17:29:53.949 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+17:32:15.566 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+17:32:18.875 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+17:32:22.638 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+17:32:23.861 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+17:32:26.317 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+17:35:58.895 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+17:36:02.012 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+17:36:06.196 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+17:36:07.165 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+17:36:09.150 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+17:36:54.821 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+17:36:57.826 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+17:37:01.791 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+17:37:03.003 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+17:37:05.465 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+17:42:28.316 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+17:42:31.217 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+17:42:35.209 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+17:42:36.442 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+17:42:38.870 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+17:51:53.072 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+17:51:56.071 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+17:52:00.025 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+17:52:01.264 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+17:52:03.708 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+17:52:32.850 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+17:52:35.781 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+17:52:39.967 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+17:52:41.394 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+17:52:44.061 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+17:53:42.366 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+17:53:45.206 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+17:53:49.392 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+17:53:50.612 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+17:53:53.078 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+18:03:28.857 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+18:03:32.139 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+18:03:36.356 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+18:03:37.369 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+18:03:39.007 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+10:22:45.726 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+10:22:47.803 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+10:22:48.511 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+10:22:50.300 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+10:22:51.007 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+10:22:52.421 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+10:22:53.801 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+10:22:54.484 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+10:22:55.149 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+10:22:55.811 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+10:22:56.465 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+10:45:31.263 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+10:45:33.481 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+10:45:34.374 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+10:45:35.037 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+10:45:35.730 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+12:42:52.829 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+12:55:26.238 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+12:55:28.880 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+12:55:32.447 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+12:55:33.260 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+12:55:35.315 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+10:08:28.343 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+10:08:31.730 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+10:08:32.864 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+10:08:36.125 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+10:08:36.982 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+10:08:38.803 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+10:08:41.038 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+10:08:41.864 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+10:08:42.567 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+10:08:43.697 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+10:08:44.924 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+10:41:45.776 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+10:41:50.836 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+10:41:52.104 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+10:41:56.194 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+10:41:57.423 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+10:42:00.076 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+10:42:02.303 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+10:42:03.187 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+10:42:04.206 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+10:42:05.051 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+10:42:06.009 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+10:42:57.015 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+10:43:01.511 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+10:43:02.750 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+10:43:05.845 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+10:43:07.044 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+10:43:09.921 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+10:43:12.382 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+10:43:13.612 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+10:43:14.829 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+10:43:16.058 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+10:43:16.896 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+10:47:45.930 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+10:47:49.832 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+10:47:51.126 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+10:47:55.229 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+10:47:56.056 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+10:47:58.304 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+10:48:00.158 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+10:48:01.356 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+10:48:02.170 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+10:48:03.264 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+10:48:04.421 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+11:05:46.394 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+11:05:51.022 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+11:05:52.051 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+11:05:55.932 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+11:05:57.159 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+11:05:59.207 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+11:06:01.300 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+11:06:02.142 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+11:06:03.192 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+11:06:04.301 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+11:06:05.363 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+11:08:27.696 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+11:08:31.016 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+11:08:32.208 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+11:08:35.887 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+11:08:37.115 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+11:08:39.775 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+11:08:42.239 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+11:08:43.459 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+11:08:44.688 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+11:08:45.711 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+11:08:46.937 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+11:23:45.360 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+11:23:48.068 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+11:23:48.744 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+11:23:50.763 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+11:23:51.429 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+11:23:52.843 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+11:23:54.227 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+11:23:54.887 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+11:23:55.547 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+11:23:56.204 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+11:23:56.897 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+11:28:36.932 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+11:28:39.756 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+11:28:40.441 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+11:28:42.283 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+11:28:42.961 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+11:28:44.302 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+11:28:45.625 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+11:28:46.282 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+11:28:46.943 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+11:28:47.585 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+11:28:48.246 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+11:29:24.016 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+11:29:26.862 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+11:29:27.524 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+11:29:29.479 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+11:29:30.140 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+11:29:31.494 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+11:29:32.876 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+11:29:33.536 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+11:29:34.163 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+11:29:34.818 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+11:29:35.467 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+13:07:04.720 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+13:07:07.446 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+13:07:08.142 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+13:07:10.031 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+13:07:10.676 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+13:07:12.026 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+13:07:13.394 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+13:07:14.039 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+13:07:14.714 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+13:07:15.342 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+13:07:15.988 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+13:14:19.094 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+13:14:21.719 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+13:14:22.411 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+13:14:24.329 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+13:14:25.004 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+13:14:26.434 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+13:14:27.831 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+13:14:28.492 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+13:14:29.118 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+13:14:29.763 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+13:14:30.423 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+13:27:13.466 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+13:27:16.078 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+13:27:16.739 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+13:27:18.503 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+13:27:19.177 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+13:27:20.497 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+13:27:21.879 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+13:27:22.522 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+13:27:23.166 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+13:27:23.808 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+13:27:24.451 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+13:33:21.782 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+13:33:24.341 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+13:33:25.020 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+13:33:26.774 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+13:33:27.434 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+13:33:28.788 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+13:33:30.169 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+13:33:30.829 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+13:33:31.457 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+13:33:32.085 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+13:33:32.746 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+13:40:53.721 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+13:40:56.349 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+13:40:57.013 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+13:40:58.802 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+13:40:59.461 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+13:41:00.827 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+13:41:02.209 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+13:41:02.836 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+13:41:03.479 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+13:41:04.126 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+13:41:04.796 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+13:47:09.762 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+13:47:12.426 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+13:47:13.085 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+13:47:14.892 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+13:47:15.553 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+13:47:16.932 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+13:47:18.287 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+13:47:18.978 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+13:47:19.621 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+13:47:20.266 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+13:47:20.894 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+13:59:25.543 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+13:59:28.182 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+13:59:28.860 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+13:59:30.666 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+13:59:31.342 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+13:59:32.711 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+13:59:34.093 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+13:59:34.769 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+13:59:35.428 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+13:59:36.071 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+13:59:36.700 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+14:06:07.370 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+14:06:09.977 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+14:06:10.637 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+14:06:12.473 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+14:06:13.137 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+14:06:14.503 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+14:06:15.852 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+14:06:16.512 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+14:06:17.171 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+14:06:17.801 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+14:06:18.448 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+14:09:07.343 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+14:09:09.937 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+14:09:10.661 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+14:09:12.476 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+14:09:13.127 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+14:09:14.530 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+14:09:15.872 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+14:09:16.547 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+14:09:17.177 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+14:09:17.806 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+14:09:18.450 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+14:10:34.844 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+14:10:37.334 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+14:10:38.089 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+14:10:39.918 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+14:10:40.594 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+14:10:41.964 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+14:10:43.316 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+14:10:44.000 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+14:10:44.636 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+14:10:45.280 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+14:10:45.941 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+15:19:17.234 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+15:21:18.949 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+15:21:48.690 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+15:21:57.508 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+15:22:50.873 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+15:23:09.734 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+15:23:17.790 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+15:23:40.638 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+15:23:51.024 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+15:23:56.110 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+15:23:57.288 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+15:23:58.941 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+15:25:46.318 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+15:25:56.115 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+15:26:17.192 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+15:26:20.682 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+15:26:31.011 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+15:26:52.581 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+15:27:10.358 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+15:27:25.562 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+15:27:50.403 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+15:27:59.293 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+15:28:00.008 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+15:37:27.088 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+15:37:30.660 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+15:37:31.638 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+15:37:34.392 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+15:37:35.325 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+15:37:37.266 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+15:37:39.107 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+15:37:40.035 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+15:37:40.946 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+15:37:41.874 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+15:37:42.800 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+16:52:56.167 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+16:53:01.721 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+16:53:02.776 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+16:53:05.406 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+16:53:06.420 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+16:53:08.378 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+16:53:10.327 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+16:53:11.347 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+16:53:12.174 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+16:53:13.080 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+16:53:13.997 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+16:53:35.196 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+16:53:37.903 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+16:53:38.896 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+16:53:41.443 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+16:53:42.363 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+16:53:44.232 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+16:53:46.159 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+16:53:47.082 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+16:53:48.003 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+16:53:48.917 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+16:53:49.839 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+17:05:10.941 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+17:05:14.711 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+17:05:15.731 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+17:05:19.202 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+17:05:20.124 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+17:05:22.164 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+17:05:24.234 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+17:05:25.146 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+17:05:26.050 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+17:05:26.772 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+17:05:27.616 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+19:09:31.676 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+19:09:34.325 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+19:09:35.034 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+19:09:37.316 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+19:09:38.012 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+19:09:39.419 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+19:09:40.847 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+19:09:41.515 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+19:09:42.258 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+19:09:42.948 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+19:09:43.625 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+19:13:33.753 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+19:13:36.222 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+19:13:36.905 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+19:13:39.071 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+19:13:39.739 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+19:13:41.269 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+19:13:42.829 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+19:13:44.013 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+19:13:44.658 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+19:13:45.335 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+19:13:45.995 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+19:24:48.665 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+19:24:51.166 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+19:24:51.865 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+19:24:54.117 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+19:24:54.783 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+19:24:56.250 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+19:24:57.793 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+19:24:58.488 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+19:24:59.133 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+19:24:59.802 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+19:25:00.615 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+22:49:09.849 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+22:49:20.297 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+22:49:22.200 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+22:49:25.420 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+22:49:26.572 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+22:49:28.489 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+22:49:30.645 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+22:49:32.126 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+22:49:33.098 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+22:49:34.320 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+22:49:35.634 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+22:50:51.170 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+22:50:54.060 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+22:50:55.251 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+22:50:59.101 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+22:51:01.118 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+22:51:04.408 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+22:51:06.595 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+22:51:07.511 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+22:51:08.765 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+22:51:09.898 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+22:51:10.797 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+22:51:45.352 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+22:51:48.361 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+22:51:49.799 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+22:51:53.775 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+22:51:55.047 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+22:51:58.165 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+22:52:02.514 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+22:52:03.977 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+22:52:05.562 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+22:52:07.948 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+22:52:09.568 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+22:58:05.500 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+22:58:09.132 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+22:58:10.116 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+22:58:13.797 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+22:58:14.712 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+22:58:16.857 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+22:58:19.023 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+22:58:20.353 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+22:58:21.084 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+22:58:21.913 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+22:58:22.696 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+22:59:41.716 [main] INFO  api.test.AuthenticateTests - ********** login with admin  ***************
+22:59:44.772 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request  ***************
+22:59:45.754 [main] INFO  api.test.VideoGameControllerTests - ********** Post Request  ***************
+22:59:49.435 [main] INFO  api.test.VideoGameControllerTests - ********** Get Request with ID ***************
+22:59:50.283 [main] INFO  api.test.VideoGameControllerTests - ********** Update Request  ***************
+22:59:52.604 [main] INFO  api.test.VideoGameControllerTests - ********** Delete Request   ***************
+22:59:54.480 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+22:59:55.381 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+22:59:56.298 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+22:59:57.325 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+22:59:58.499 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+07:08:47.008 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+07:08:48.972 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+07:08:50.706 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+07:08:51.678 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+07:08:52.595 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+07:10:21.949 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+07:10:22.908 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+07:10:25.409 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+07:10:26.282 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+07:10:27.210 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+07:11:43.128 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+07:11:45.698 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************
+07:11:46.880 [main] INFO  api.test.VideoGameControllerV2Tests - ********** read list  ***************
+07:11:47.689 [main] INFO  api.test.VideoGameControllerV2Tests - ********** update list  ***************
+07:11:48.737 [main] INFO  api.test.VideoGameControllerV2Tests - ********** delete list  ***************
+07:49:35.822 [main] INFO  api.test.VideoGameControllerV2Tests - ********** all list  ***************
+07:49:37.746 [main] INFO  api.test.VideoGameControllerV2Tests - ********** create list  ***************

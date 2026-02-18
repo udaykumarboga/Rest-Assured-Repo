@@ -1,0 +1,11 @@
+api\utilities\ExtentReportManager.class
+api\utilities\DataProviders.class
+api\endpoints\Routes.class
+api\endpoints\VideoGamesControllerV2EndPoints.class
+api\payload\VideoGamesControllerV1AndV2PayLoad.class
+api\payload\AuthenticatePayLoad.class
+api\endpoints\VideoGamesControllerEndPoints.class
+api\test\AuthenticateTests.class
+api\test\VideoGameControllerTests.class
+api\test\VideoGameControllerV2Tests.class
+api\endpoints\AuthenticateEndPoints.class
