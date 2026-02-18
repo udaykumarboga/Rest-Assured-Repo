@@ -14,7 +14,7 @@ package api.endpoints;
 	    public static String post_url=base_url+"/api/authenticate";
 	    
 	    
-	  //Api Video Games Controller
+	  //Api Video Games Controllers
 	    
 	    public static String get_url=base_url+"/api/videogame"; 
 	    public static String post1_url=base_url+"/api/videogame";	
