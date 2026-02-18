@@ -9,7 +9,7 @@ package api.endpoints;
 	    public static String base_url="https://www.videogamedb.uk:443";
 	    
 
-	    //Api Authentication Controller
+	    //Api Authentication Controllers
 	    
 	    public static String post_url=base_url+"/api/authenticate";
 	    
